@@ -1,0 +1,28 @@
+
+@import url(components/normalize.css);
+
+@import url(components/form.css);
+
+@import url(components/typography.css);
+
+@import url(components/common.css);
+
+@import url(components/icons.css);
+
+@font-face {
+    font-family: 'rubiklight_italic';
+    src: url('../fonts/rubik-italic-variablefont_wght-webfont.woff2') format('woff2'),
+    url('../fonts/rubik-italic-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'rubiklight';
+    src: url('../fonts/rubik-variablefont_wght-webfont.woff2') format('woff2'),
+    url('../fonts/rubik-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
